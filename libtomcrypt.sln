@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20824.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtomcrypt", "libtomcrypt.vcxproj", "{A98FA718-6681-4406-B219-CC8646CB92DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtomcrypt_store", "libtomcrypt_store.vcxproj", "{65E9F8A7-66A9-409A-837F-446CA8C421F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtomcrypt_phone", "libtomcrypt_phone.vcxproj", "{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Debug|ARM.ActiveCfg = Debug|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Debug|Win32.Build.0 = Debug|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Debug|x64.ActiveCfg = Debug|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Release|ARM.ActiveCfg = Release|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Release|Win32.ActiveCfg = Release|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Release|Win32.Build.0 = Release|Win32
+		{A98FA718-6681-4406-B219-CC8646CB92DF}.Release|x64.ActiveCfg = Release|Win32
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Debug|ARM.Build.0 = Debug|ARM
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Debug|Win32.Build.0 = Debug|Win32
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Debug|x64.ActiveCfg = Debug|x64
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Debug|x64.Build.0 = Debug|x64
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Release|ARM.ActiveCfg = Release|ARM
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Release|ARM.Build.0 = Release|ARM
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Release|Win32.ActiveCfg = Release|Win32
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Release|Win32.Build.0 = Release|Win32
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Release|x64.ActiveCfg = Release|x64
+		{65E9F8A7-66A9-409A-837F-446CA8C421F2}.Release|x64.Build.0 = Release|x64
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Debug|ARM.Build.0 = Debug|ARM
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Debug|Win32.Build.0 = Debug|Win32
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Debug|x64.ActiveCfg = Debug|Win32
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Release|ARM.ActiveCfg = Release|ARM
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Release|ARM.Build.0 = Release|ARM
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Release|Win32.ActiveCfg = Release|Win32
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Release|Win32.Build.0 = Release|Win32
+		{AEAD43B5-1EB8-4FC0-996C-EC50C31600C6}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
